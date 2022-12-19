@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "file:/C:/Users/user/Desktop/Master/Enset/s7/xml/biblio/biblio.dtd">
+<?xml-stylesheet type="text/xsl" href="biblio.xsl"?>
+<biblio>
+    <etudiant code="e1" nom="elha" prenom="ayoub" >
+        <livre id="L1" dateEmrunt="2022-11-11" rendu="OUI" titre="boite" />
+        <livre id="L2" dateEmrunt="2021-11-11" rendu="NON" titre="XML" />
+    </etudiant>
+    <etudiant code="e2" nom="ban" prenom="hamza">
+        <livre id="L3" dateEmrunt="2019-09-22" rendu="NON" titre="PHP"/>
+    </etudiant>
+</biblio>

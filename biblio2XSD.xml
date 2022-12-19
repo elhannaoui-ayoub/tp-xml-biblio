@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/user/Desktop/Master/Enset/s7/xml/biblio/biblio.xsd">
+    <etudiant code="E1" nom="ELHANNAOUI" prenom="Ayoub" age="16" >
+        <livre id="ID-1" titre="LA BOITE A MERVEILLE" dateEmprunt="2022-11-10" rendu="NON" />
+        <livre id="ID-2" titre="LA BOITE A MERVEILLE" dateEmprunt="2022-11-10" rendu="NON" />
+        <livre id="ID-3" titre="LA BOITE A MERVEILLE" dateEmprunt="2022-11-10" rendu="NON" />
+        <livre id="ID-4" titre="LA BOITE A MERVEILLE" dateEmprunt="2022-11-10" rendu="NON" />
+    </etudiant>
+    <etudiant code="E2" nom="ELHANNAOUI" prenom="Ayoub" age="16" >
+        <livre id="ID-5" titre="LA BOITE A MERVEILLE" dateEmprunt="2022-11-10" rendu="NON" />
+    </etudiant>
+</biblio>
